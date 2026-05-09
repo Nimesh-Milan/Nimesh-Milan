@@ -64,3 +64,4 @@
 - 💼 Hire me on **Upwork**: [upwork.com/freelancers/nimeshmilan](https://upwork.com)
 - 💬 Connect on **LinkedIn**: [linkedin.com/in/nimesh-milan](https://linkedin.com/in/nimesh-milan)
 - 🌐 See my work: [raniboathouse.com](https://raniboathouse.com)
+- 🌐 See my work: [gearexpertise.com](https://gearexpertise.com)
