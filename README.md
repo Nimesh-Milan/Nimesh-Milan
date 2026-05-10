@@ -8,7 +8,7 @@
   <a href="https://www.upwork.com/freelancers/nimeshmilan" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
-  <a href="https://raniboathouse.com" target="_blank">
+  <a href="https://nimeshmilan.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
